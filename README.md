@@ -60,11 +60,15 @@
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
 
-### Don't like command line? Use Git Version Control in Popular IDEs or Github-Desktop
+### Don't like command line? Use Github-Desktop or Git Version Control in Popular IDEs
 
-[Github-Desktop]
+[Download Github-Desktop] & [Learn to use Github-Desktop] (Most beginner friendly option)
 
+[Pycharm Version Control]
 
+[IntelliJ Version Control]
 
-
-[Github-Desktop]: https://desktop.github.com/
+[Download Github-Desktop]: https://desktop.github.com/
+[Learn to use Github-Desktop]: https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop
+[Pycharm Version Control]: https://www.jetbrains.com/help/pycharm/version-control-integration.html
+[IntelliJ Version Control]: https://www.jetbrains.com/help/idea/version-control-integration.html
